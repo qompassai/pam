@@ -7,6 +7,8 @@
 <h3> Qompass AI on PAM </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-pam)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/pam/total?style=flat-square)
+
  <a href="https://linux-pam.org/">
   <img src="https://img.shields.io/badge/Linux_PAM-009485?style=for-the-badge" alt="Linux PAM">
 </a>
