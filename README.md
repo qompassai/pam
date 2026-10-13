@@ -20,9 +20,7 @@
   <img src="https://img.shields.io/badge/PAM_Tutorials-green?style=flat-square" alt="PAM Tutorials">
 </a>
 <br>
-<a href="./LICENSE">
-    <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License: Apache 2.0">
-  </a>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
 
 
 <details>
@@ -416,3 +414,7 @@
         says data breach affected more than 100,000 people</a></p>
   </div>
 </details>
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](./LICENSE).
